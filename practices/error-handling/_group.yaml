@@ -1,0 +1,3 @@
+name: Error handling
+description: Help callers and users understand and recover from failures.
+whenToRead: When implementing or reviewing error handling and error messages.
