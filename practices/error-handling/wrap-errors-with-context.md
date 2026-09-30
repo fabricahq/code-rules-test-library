@@ -11,4 +11,6 @@ When you return an error you received from another call, add the operation you w
 
 Keep the original error available to callers that inspect it.
 
+In Go, use `fmt.Errorf("load config: %w", err)` so callers can still use `errors.Is`.
+
 Check each returned error: a reader should be able to tell which operation failed without a stack trace.

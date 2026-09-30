@@ -8,7 +8,7 @@ tags: errors
 
 ## Make errors actionable
 
-Explain what failed and what the user or caller can do next. Include relevant context that is safe to disclose.
+Explain what failed and what the user or caller can do next. Include relevant context that is safe to disclose, and a stable error code the caller can search for.
 
 Instead of "Invalid configuration", say "The configuration is missing a repository URL. Add a repository value under sources.acme-rules."
 

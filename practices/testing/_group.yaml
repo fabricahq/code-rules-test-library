@@ -1,3 +1,3 @@
 name: Testing
-description: Tests that prove the behavior a change provides.
+description: Tests that prove the behavior a change provides, including retries and failure paths.
 whenToRead: When adding or changing behavior, fixing bugs, or reviewing tests.

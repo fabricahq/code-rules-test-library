@@ -1,0 +1,3 @@
+summary: Clarify when to run the tests.
+rules:
+  practices/testing/test-changed-behavior: patch

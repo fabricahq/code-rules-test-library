@@ -1,0 +1,3 @@
+summary: Add a Go example that wraps with %w.
+rules:
+  practices/error-handling/wrap-errors-with-context: minor

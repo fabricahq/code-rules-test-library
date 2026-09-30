@@ -12,4 +12,4 @@ When a change alters behavior that a caller or user relies on, add or update a t
 
 For example, if a discount changes an order's total, assert the resulting total rather than which private helper was called.
 
-Run the relevant tests before considering the change complete.
+Run the relevant tests before you consider the change complete.

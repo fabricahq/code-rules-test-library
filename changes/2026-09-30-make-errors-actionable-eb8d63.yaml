@@ -1,0 +1,3 @@
+summary: Require a stable error code in every actionable error message.
+rules:
+  practices/error-handling/make-errors-actionable: major
