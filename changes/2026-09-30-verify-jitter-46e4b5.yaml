@@ -1,0 +1,3 @@
+summary: Add a rule about testing retry jitter.
+rules:
+  practices/testing/verify-jitter: new

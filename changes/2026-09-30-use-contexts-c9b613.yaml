@@ -1,0 +1,3 @@
+summary: Mention errors.Is in handlers.
+rules:
+  techs/go/use-contexts: patch

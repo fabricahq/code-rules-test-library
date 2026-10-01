@@ -1,0 +1,5 @@
+summary: Folded into the retry-limit rule.
+rules:
+  practices/testing/verify-retries:
+    change: retired
+    replacedBy: practices/testing/verify-retry-limits

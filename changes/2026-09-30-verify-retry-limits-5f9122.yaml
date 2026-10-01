@@ -1,0 +1,3 @@
+summary: Add a Python example.
+rules:
+  practices/testing/verify-retry-limits: minor
