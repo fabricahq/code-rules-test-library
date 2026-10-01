@@ -1,0 +1,3 @@
+summary: Require at most 3 attempts and a test at the limit.
+rules:
+  practices/testing/verify-retry-limits: major

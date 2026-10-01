@@ -7,7 +7,7 @@ impactDescription: Prevents silently ignored failures.
 
 ## Rule
 
-Return errors to the caller instead of logging and continuing. Wrap each error with context using `fmt.Errorf("doing x: %w", err)`.
+Return errors to the caller instead of logging them and continuing. Wrap each error with context using `fmt.Errorf("doing x: %w", err)`.
 
 ## Evidence
 
