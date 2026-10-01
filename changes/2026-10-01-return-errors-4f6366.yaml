@@ -1,0 +1,3 @@
+summary: Reword the rule.
+rules:
+  techs/go/return-errors: patch
