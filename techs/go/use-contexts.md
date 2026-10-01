@@ -12,3 +12,7 @@ Pass `context.Context` as the first parameter of every function that does I/O. S
 ## Evidence
 
 I/O functions take a context first.
+
+## Example: HTTP handlers
+
+Use `r.Context()` in HTTP handlers.

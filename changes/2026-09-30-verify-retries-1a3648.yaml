@@ -1,0 +1,3 @@
+summary: Add a broader rule about testing retries.
+rules:
+  practices/testing/verify-retries: new

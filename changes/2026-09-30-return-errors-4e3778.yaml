@@ -1,0 +1,3 @@
+summary: Clarify the wording about logging.
+rules:
+  techs/go/return-errors: patch

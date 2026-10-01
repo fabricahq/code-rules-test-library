@@ -1,0 +1,3 @@
+summary: Add an example for HTTP handlers.
+rules:
+  techs/go/use-contexts: minor

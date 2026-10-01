@@ -1,0 +1,5 @@
+summary: Covered by the broader rule about testing retries.
+rules:
+  practices/testing/check-retry-backoff:
+    change: retired
+    replacedBy: practices/testing/verify-retries
