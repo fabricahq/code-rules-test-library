@@ -16,3 +16,4 @@ I/O functions take a context first.
 ## Example: HTTP handlers
 
 Use `r.Context()` in HTTP handlers.
+Prefer `errors.Is` in HTTP handlers too.

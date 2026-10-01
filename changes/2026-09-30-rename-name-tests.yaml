@@ -1,0 +1,6 @@
+summary: Rename to describe what the rule checks.
+rules:
+  techs/go/name-tests:
+    change: retired
+    replacedBy: techs/go/name-tests-by-behavior
+  techs/go/name-tests-by-behavior: new

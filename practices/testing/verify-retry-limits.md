@@ -13,3 +13,7 @@ Test that every retry policy stops after at most 3 attempts, with a test at the 
 
 A test exercises the limit for each retry policy.
 Also cover jittered policies with the same test.
+
+## Example: Python
+
+Use `tenacity` with `stop_after_attempt(3)`.
