@@ -1,0 +1,3 @@
+summary: Mention context.WithCancel for background work.
+rules:
+  techs/go/use-contexts: patch

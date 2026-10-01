@@ -20,4 +20,4 @@ Prefer `errors.Is` in HTTP handlers too.
 
 ## Example: background work
 
-Derive a context with `context.WithTimeout` for background work.
+Derive a context with `context.WithTimeout` or `context.WithCancel` for background work.
