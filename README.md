@@ -88,3 +88,4 @@ Pass `--summary` with one line for project maintainers deciding whether to updat
 You may customize this README for the library. Re-running `code-rules library init` preserves an existing README.
 
 > This repository is a test fixture for Code Rules exploratory testing. Its rules are examples, not recommendations.
+Maintained by the Code Rules team.
