@@ -17,3 +17,7 @@ I/O functions take a context first.
 
 Use `r.Context()` in HTTP handlers.
 Prefer `errors.Is` in HTTP handlers too.
+
+## Example: background work
+
+Derive a context with `context.WithTimeout` for background work.

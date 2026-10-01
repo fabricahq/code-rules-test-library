@@ -1,0 +1,3 @@
+summary: Covered by verify-retry-limits.
+rules:
+  practices/testing/verify-timeouts: retired

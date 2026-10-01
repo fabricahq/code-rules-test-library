@@ -1,0 +1,3 @@
+summary: Add the rule.
+rules:
+  techs/go/close-bodies: new

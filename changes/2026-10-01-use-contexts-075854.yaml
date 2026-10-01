@@ -1,0 +1,3 @@
+summary: Add guidance for background work.
+rules:
+  techs/go/use-contexts: minor
